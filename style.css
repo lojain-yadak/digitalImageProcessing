@@ -5,6 +5,7 @@ body, a{
 div{
     display: flex;
     flex-direction: column;
+    gap:20px;
 }
 div h2{
     color: aqua;
