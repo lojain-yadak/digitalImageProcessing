@@ -1,4 +1,11 @@
+body, a{
+    background-color: rgb(1, 5, 45);
+    color: antiquewhite;
+}
 div{
     display: flex;
     flex-direction: column;
+}
+div h2{
+    color: aqua;
 }
